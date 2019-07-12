@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should match snapshot 1`] = `
+<div
+  className="App"
+>
+  <h1
+    onClick={[Function]}
+  >
+    Photo of the Day
+  </h1>
+  <p />
+  <button
+    className="ui blue button"
+    onClick={[Function]}
+  >
+    Button
+  </button>
+  <img />
+  <p />
+  <p>
+    Read through the instructions in the README.md file to build your NASA app! Have fun 🚀!
+  </p>
+</div>
+`;
